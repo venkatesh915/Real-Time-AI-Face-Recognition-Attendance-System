@@ -63,11 +63,11 @@ Python, OpenCV, DeepFace, TensorFlow, NumPy
 - Faster AI models  
 
 ## 👨‍💻 About Me
-Name: Venkateswara Rao  
+Name: Boddu Venkateswara Rao  
 Course: B.Tech AIML Student  
 Interest: AI, Machine Learning, Data Science, Computer Vision  
-Email: venkateshrao.dev@gmail.com  
-LinkedIn: https://www.linkedin.com/in/venkateswara-rao  
+Email: venkateshboddu923@gmail.com  
+LinkedIn: https://www.linkedin.com/in/venkateswara-rao-boddu-747474302?utm_source=share_via&utm_content=profile&utm_medium=member_android
 GitHub: https://github.com/venkatesh915  
 
 ## ⭐ Support
